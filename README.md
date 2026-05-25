@@ -17,4 +17,8 @@ A mood-based Bollywood movie recommendation web app built with HTML, CSS and Jav
 The `assets` folder contains the CineMizaaj logo used in the app.
 
 ## Live Demo
-Coming soon 🚀
+🌐 [CineMizaaj Live](https://cine-mizaaj.vercel.app)
+
+## Preview
+See the [Preview Screenshots](https://github.com/Abhishekaaryabgp/CineMizaaj/tree/main/preview) for desktop, tablet and mobile views.
+
