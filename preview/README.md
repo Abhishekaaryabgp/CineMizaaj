@@ -2,10 +2,10 @@
 
 Screenshots showcasing CineMizaaj across different screen sizes.
 
-## 🖥️ Desktop View
+## 🖥️ Fullscreen View
 Full widescreen layout with 3 movie cards side by side.
 
-## 💊 Tablet View
+## 💊 Desktop View
 Optimized layout for medium screens with stacked cards.
 
 ## 📱 Mobile View
